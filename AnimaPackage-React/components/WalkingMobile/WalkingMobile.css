@@ -1,0 +1,21 @@
+.walkingmobile {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 844px;
+  overflow: hidden;
+  width: 390px;
+}
+
+.slider-continuous-disabled-primary {
+  height: 40px;
+  margin-left: 2.0px;
+  margin-top: 140px;
+  width: 240px;
+}
+
+.slider-continuous-disabled-primary .mdc-slider {
+  margin-left: 0px;
+  width: 240px;
+}
+

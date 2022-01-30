@@ -1,0 +1,18 @@
+:root { 
+  --black: #000000;
+  --lima: #74b72e;
+  --mercury: #e5e5e5;
+  --white: #ffffff;
+ 
+  --font-size-l: 64px;
+  --font-size-m: 48px;
+  --font-size-s: 36px;
+  --font-size-xl: 96px;
+  --font-size-xs: 30px;
+  --font-size-xxs: 15px;
+  --font-size-xxxs: 10px;
+ 
+  --font-family-mulish: "Mulish", Helvetica;
+  --font-family-rationale: "Rationale", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+}

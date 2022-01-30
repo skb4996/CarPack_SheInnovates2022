@@ -1,0 +1,8 @@
+.adamobile {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  overflow: hidden;
+  width: 390px;
+}
+
